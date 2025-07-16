@@ -3,4 +3,5 @@ python-telegram-bot==13.7
 razorpay==1.3.0
 apscheduler==3.6.3
 pytz==2023.3
-standard-imghdr  # Fix for Python 3.13+ removal of imghdr
+standard-imghdr
+urllib3<2.0.0  # 👈 fix for missing urllib3.contrib.appengine
