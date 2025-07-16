@@ -1,5 +1,8 @@
 services:
   - type: web
-    name: kitty-webhook2
+    name: kitty-webhook
     env: python
-    buildCommand: "pip install -r
+    plan: free
+    buildCommand: pip install -r requirements.txt
+    startCommand: python webhook_server.py
+    pythonVersion: 3.11.9
