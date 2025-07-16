@@ -7,3 +7,9 @@
  * Running on http://127.0.0.1:5000
  * Running on http://192.168.221.39:5000
 2025-07-16 18:26:06,182 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-16 18:56:06,153 - INFO - Running job "check_bot_status (trigger: interval[0:30:00], next run at: 2025-07-16 13:56:06 UTC)" (scheduled at 2025-07-16 13:26:06.145194+00:00)
+2025-07-16 18:56:07,294 - INFO - Telegram bot is online
+2025-07-16 18:56:07,295 - INFO - Job "check_bot_status (trigger: interval[0:30:00], next run at: 2025-07-16 13:56:06 UTC)" executed successfully
+2025-07-16 19:26:06,150 - INFO - Running job "check_bot_status (trigger: interval[0:30:00], next run at: 2025-07-16 14:26:06 UTC)" (scheduled at 2025-07-16 13:56:06.145194+00:00)
+2025-07-16 19:26:06,287 - ERROR - Bot connectivity check failed: urllib3 HTTPError ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+2025-07-16 19:26:06,289 - INFO - Job "check_bot_status (trigger: interval[0:30:00], next run at: 2025-07-16 14:26:06 UTC)" executed successfully
