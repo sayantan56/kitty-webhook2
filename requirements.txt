@@ -1,5 +1,6 @@
 flask==2.3.3
 python-telegram-bot==13.7
 razorpay==1.3.0
-apscheduler==3.6.3  # Reverted to match python-telegram-bot
+apscheduler==3.6.3
 pytz==2023.3
+standard-imghdr  # Fix for Python 3.13+ removal of imghdr
