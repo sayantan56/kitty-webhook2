@@ -1,0 +1,8 @@
+{
+  "telegram_bot_token": "7664442696:AAHyCQ_W2Fs9aF7JRHo5XflU7afvYKjRw5E",
+  "telegram_chat_id": "6609212431",
+  "razorpay_key_id": "rzp_test_EEVhDKco4auAPj",
+  "razorpay_key_secret": "UgPLB6J1NRn5ycxYuZtJWEYo",
+  "razorpay_webhook_secret": "sayanwebhooksecret123",
+  "s3_file_url": "https://sayan-file-delivery.s3.amazonaws.com/product.pdf"
+}

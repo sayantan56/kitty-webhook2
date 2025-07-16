@@ -1,0 +1,9 @@
+2025-07-16 18:26:06,145 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2025-07-16 18:26:06,147 - INFO - Added job "check_bot_status" to job store "default"
+2025-07-16 18:26:06,147 - INFO - Scheduler started
+2025-07-16 18:26:06,148 - INFO - Scheduler started
+2025-07-16 18:26:06,182 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.221.39:5000
+2025-07-16 18:26:06,182 - INFO - [33mPress CTRL+C to quit[0m
