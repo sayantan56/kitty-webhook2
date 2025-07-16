@@ -1,5 +1,5 @@
 flask==2.3.3
 python-telegram-bot==13.7
 razorpay==1.3.0
-apscheduler==3.10.4  # Keeping the updated version
+apscheduler==3.6.3  # Reverted to match python-telegram-bot
 pytz==2023.3
